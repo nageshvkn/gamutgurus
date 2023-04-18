@@ -1,6 +1,4 @@
 public class Login
-lsjflsfj
-sf
-sf
-sf
-
+{
+    public static void main()
+}
